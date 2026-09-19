@@ -1,7 +1,0 @@
-*.class
-output
-BankManager.java
-Testing.java
-runTests.sh
-original.txt
-output.reference
